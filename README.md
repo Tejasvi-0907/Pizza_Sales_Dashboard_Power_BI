@@ -7,13 +7,13 @@ The dashboard offers a comprehensive view of sales behavior across different tim
 ## Dataset Overview
 The analysis is based on a structured dataset consisting of the following key tables:
 
-Orders – Contains order IDs, dates, and times of orders
+Orders – Contains order IDs, dates, and times of orders.
 
-Order_Details – Includes order ID, pizza ID, and quantity
+Order_Details – Includes order ID, pizza ID, and quantity.
 
-Pizzas – Contains pizza ID, type, size, and price
+Pizzas – Contains pizza ID, type, size, and price.
 
-Pizza_Types – Includes pizza name, category, and ingredients
+Pizza_Types – Includes pizza name, category, and ingredients.
 
 These tables were connected using relationships based on order_id and pizza_id to build a relational data model in Power BI.
 
