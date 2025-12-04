@@ -52,6 +52,9 @@ Column Charts – Show hourly sales volumes for time-based insights
 Custom Time of Day Segmentation – Orders are categorized into Morning, Afternoon, Evening, and Night using DAX logic
 
 Clean and Responsive Layout – Focuses on readability and decision support
+Here is the snapchot of Dashboard:-
+<img width="1434" height="803" alt="Pizza sales Dashboard" src="https://github.com/user-attachments/assets/d6ae8858-7ef6-4dd5-babd-3637d66dfe8f" />
+
 
 ## Tools and Techniques Used
 Power BI Desktop
